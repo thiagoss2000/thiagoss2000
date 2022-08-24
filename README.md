@@ -68,7 +68,7 @@ My hobby is discovering, creating and modifying to suit needs 🛠️.
 
 <h2 align="center">Metrics</h2>
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiagoss2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiagoss2000&show_icons=true&theme=radical&include_all_commits=false&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoss2000&layout=compact&langs_count=16&theme=radical"/>
 </p>
 
