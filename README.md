@@ -4,16 +4,17 @@
   <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 </div> -->
 
-### Helo! Welcome to my GitHub 👋 
+### Olá! Bem vindo ao meu GitHub 👋
 
-My name is Thiago Santana Souza. <br>
-I'm from Bahia 🌵, Brazil, and I'm passionate about technology. <br>
-I am currently studying **computer engineering** at the Federal University of Sergipe <br>
-and **web development** at [Driven Education](https://www.driven.com.br/) 💡. <br>
-My hobby is discovering, creating and modifying to suit needs 🛠️.
+Meu nome é Thiago Santana Souza. <br>
+Sou da Bahia 🌵, Brasil e sou um apaixonado por tecnologia. <br>
+Me tornei **desenvolvedor** através da [Driven Education](https://www.driven.com.br/) 💡. <br>
+Atualmente estou cursando **engenharia da computação** na Universidade Federal de Sergipe <br>
+Meu hobby é descobrir soluções e aprender novas tecnologias 🛠️.
 
-- 🖥️ computer engineer undergraduate at UFS
-- 💻 Web Development Student at Driven Education
+
+- 💻 Desenvolvedor Full-Stack pela Driven Education
+- 🖥️ graduando em engenharia da computação pela UFS
 - 📍 Aracaju, Sergipe
 <br>
 
@@ -78,8 +79,7 @@ My hobby is discovering, creating and modifying to suit needs 🛠️.
 
 <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align="center">
-  <a href = 'https://www.linkedin.com/in/thiago-s-8b6a4611a/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/></a> 
+  <a href = 'https://www.linkedin.com/in/thiagoss2000/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/></a> 
 <!--   <a href = 'https://medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
   <a href = 'https://github.com/thiagoss2000'> <img width = '32px' align= 'center' src="https://www.pngrepo.com/png/271115/512/gmail.png"/></a>
-  <a href = 'https://github.com/thiagoss2000'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
