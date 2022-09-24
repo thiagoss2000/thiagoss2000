@@ -97,5 +97,5 @@ Meu hobby é descobrir soluções e aprender novas tecnologias 🛠️.
 <p align="center">
   <a href = 'https://www.linkedin.com/in/thiagoss2000/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/></a> 
 <!--   <a href = 'https://medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
-  <a href = 'https://github.com/thiagoss2000'> <img width = '32px' align= 'center' src="https://www.pngrepo.com/png/271115/512/gmail.png"/></a>
+  <a href = 'mailto:thiago.ss675@gmail.com'> <img width = '32px' align= 'center' src="https://www.pngrepo.com/png/271115/512/gmail.png"/></a>
 </p>
