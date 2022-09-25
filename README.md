@@ -99,3 +99,7 @@ Meu hobby é descobrir soluções e aprender novas tecnologias 🛠️.
 <!--   <a href = 'https://medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
   <a href = 'mailto:thiago.ss675@gmail.com'> <img width = '32px' align= 'center' src="https://www.pngrepo.com/png/271115/512/gmail.png"/></a>
 </p>
+
+<!--
+![snake gif](https://github.com/thiagoss2000/thiagoss2000/blob/output/github-contribution-grid-snake.svg)
+-->
