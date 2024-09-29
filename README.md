@@ -1,12 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=32FF55DA&vCenter=true&multiline=true&width=435&height=60&lines=Ol%C3%A1!+Bem+vindo+ao+meu+GitHub...+;Meu+nome+%C3%A9+Thiago...)](https://git.io/typing-svg)
-<!-- ### Olá! Bem vindo ao meu GitHub 👋
-
-Meu nome é Thiago Santana Souza. <br> -->
-Sou da Bahia 🌵, Brasil e sou um apaixonado por tecnologia. <br>
-Me tornei **desenvolvedor** através da [Driven Education](https://www.driven.com.br/) 💡. <br>
-Atualmente estou cursando **engenharia da computação** na Universidade Federal de Sergipe <br>
-Meu hobby é descobrir soluções e aprender novas tecnologias 🛠️.
 
 
 - 💻 Desenvolvedor Full-Stack pela Driven Education
