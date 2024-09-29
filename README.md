@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=32FF55DA&vCenter=true&multiline=true&width=435&height=60&lines=Ol%C3%A1!+Bem+vindo+ao+meu+GitHub...+;Meu+nome+%C3%A9+Thiago...)](https://git.io/typing-svg)
 
 
-- 💻 Desenvolvedor Full-Stack pela Driven Education
 - 🖥️ graduando em engenharia da computação pela UFS
 - 📍 Aracaju, Sergipe
 <br>
