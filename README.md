@@ -29,9 +29,9 @@
   <a href="https://devdocs.io/c/language/do">
       <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C"/>
   </a>
-  <a href="https://devdocs.io/c/language/do">
+  <!--<a href="https://devdocs.io/c/language/do">
       <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="Logo da Linguagem C++"/>
-  </a>
+  </a>-->
   <a href="https://nodejs.org/en/">
       <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Logo do Node"/>
   </a>
